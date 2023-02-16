@@ -21,5 +21,5 @@ The SMITE Device was created with 3 main functionalities in mind – Radio Frequ
 Infrared Hijacking and Stealth Camera Utilities.
 
 <p align="center">
-  <img src="https://github.com/projectsmite/.github/blob/main/profile/assets/DISM_3A62_ProjectSMITE_Poster.png" width="500px"/> 
+  <img src="https://github.com/projectsmite/.github/blob/main/profile/assets/DISM_3A62_ProjectSMITE_Poster.png" width="400px"/> 
 </p>
