@@ -1,6 +1,10 @@
 # Project SMITE
 ### Small Multipurpose Interrupter Tool for Exploration
 
+<p align="center">
+  <img src="https://github.com/projectsmite/.github/blob/main/profile/assets/DISM_3A62_ProjectSMITE_Thumbnail.png" />
+</p>
+
 **Created by a group of Singapore Polytechnic Students in fulfillment of their Final Year Project: <br/>
 Harry Choo, Evan Ting, Brenden Tung, Ashwin Kavidasan, Vernon Lim**
 
@@ -11,6 +15,11 @@ research has shown that vulnerable access control systems are still widely used 
 These access control systems can be exploited by IoT devices.
 
 Therefore, the SMITE Device was created to help gain understanding on how IoT devices are used by malicious actors, 
-and to be a multi-purpose tool capable of penetration testing, securing these vulnerable systems. 
+and to be a multi-purpose tool capable of penetration testing, securing these vulnerable systems.
+
 The SMITE Device was created with 3 main functionalities in mind – Radio Frequency Identification hacking, 
 Infrared Hijacking and Stealth Camera Utilities.
+
+<p align="center">
+  <img src="https://github.com/projectsmite/.github/blob/main/profile/assets/DISM_3A62_ProjectSMITE_Poster.png" width="500px"/> 
+</p>
